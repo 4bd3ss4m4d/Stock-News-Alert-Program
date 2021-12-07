@@ -17,7 +17,7 @@ MAX_INCREASE_RATE = 5
 MAX_DECREASE_RATE = -5
 
 # ------- Waiting Time ------- #
-WAITING_TIME = 10
+WAITING_TIME = (60*60) + 5
 
 # ------- Alpha Vantage API Parameters & End point------- #
 
